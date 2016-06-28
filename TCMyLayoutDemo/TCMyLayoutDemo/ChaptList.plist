@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>viewControllerName</key>
+			<string>ViewController01</string>
+			<key>title</key>
+			<string>垂直布局 &amp; 水平布局</string>
+		</dict>
+		<dict>
+			<key>viewControllerName</key>
+			<string>ViewController02</string>
+			<key>title</key>
+			<string>和ScrollView结合</string>
+		</dict>
+		<dict>
+			<key>viewControllerName</key>
+			<string>ViewController03</string>
+			<key>title</key>
+			<string>子视图的停留和填充</string>
+		</dict>
+		<dict>
+			<key>viewControllerName</key>
+			<string>ViewController04</string>
+			<key>title</key>
+			<string>布局尺寸由子视图决定</string>
+		</dict>
+	</array>
+</array>
+</plist>
